@@ -207,7 +207,7 @@ function Home() {
     }
   ]
   return (
-    <Tab.Navigator styles={styles.header} initialRouteName='Cards' screenOptions={{ tabBarActiveTintColor: '#FD8C24'}}>
+    <Tab.Navigator styles={styles.header} initialRouteName='Cards' screenOptions={{ tabBarActiveTintColor: '#5599FF'}}>
           <Tab.Screen
             name="Cards"
             component={CardScreen}
