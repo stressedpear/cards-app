@@ -207,7 +207,7 @@ function Home() {
     }
   ]
   return (
-    <Tab.Navigator initialRouteName='Cards' screenOptions={{ tabBarActiveTintColor: '#FD8C24'}}>
+    <Tab.Navigator styles={styles.header} initialRouteName='Cards' screenOptions={{ tabBarActiveTintColor: '#FD8C24'}}>
           <Tab.Screen
             name="Cards"
             component={CardScreen}
@@ -257,5 +257,8 @@ const styles = StyleSheet.create({
     backgroundColor: "#FFC086",
     width: 164,
     height: 164
+  },
+  header: {
+    backgroundColor: "#5599FF"
   }
 });
