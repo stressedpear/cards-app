@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/cards-app/static/js/main.ffdd35fa.js",
+    "static/js/608.80693be7.js": "/cards-app/static/js/608.80693be7.js",
+    "static/media/MaterialCommunityIcons.ttf": "/cards-app/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "favicon.ico": "/cards-app/favicon.ico",
+    "index.html": "/cards-app/index.html",
+    "static/media/rocket.png": "/cards-app/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/cards-app/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/cards-app/favicon-32.png",
+    "static/media/star.png": "/cards-app/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/cards-app/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/cards-app/favicon-16.png",
+    "serve.json": "/cards-app/serve.json",
+    "manifest.json": "/cards-app/manifest.json",
+    "main.ffdd35fa.js.map": "/cards-app/static/js/main.ffdd35fa.js.map",
+    "608.80693be7.js.map": "/cards-app/static/js/608.80693be7.js.map"
+  },
+  "entrypoints": [
+    "static/js/608.80693be7.js",
+    "static/js/main.ffdd35fa.js"
+  ]
+}
