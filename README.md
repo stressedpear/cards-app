@@ -1,7 +1,7 @@
 DIG4639C-portfolio-project
 
 Link to github pages:
-https://stressedpear.github.io/expo-gh-pages/
+
 
 Mobile development final project
 
